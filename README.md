@@ -118,13 +118,10 @@ graph LR
 
 ## GitHub Statistics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kuro250104&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kuro250104&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kuro250104&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuro250104&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
+</p>
 
 <div align="center">
 
