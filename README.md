@@ -118,13 +118,6 @@ graph LR
 
 ## GitHub Statistics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kuro250104&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuro250104&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
-</p>
-
-<div align="center">
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kuro250104&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 </div>
