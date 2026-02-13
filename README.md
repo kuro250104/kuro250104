@@ -138,7 +138,7 @@ graph LR
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Kuro250104/Kuro250104/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github.com/kuro250104/kuro250104/blob/output/github-contribution-grid-snake-dark.svg?raw=true" />
 
 </div>
 
